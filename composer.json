@@ -1,0 +1,11 @@
+{
+    "name": "didi/coreframework",
+    "description": "Un framework hecho en casa, con pasión y mucho cariño. Ligero, rápido y personalizable. Úsalo como gustes, en tus proyectos personales o profesionales. D3VCOM LABS",
+    "authors": [
+        {
+            "name": "Esleiter Ramiro Bustamante Ataxca",
+            "email": "esletutuns0307@gmail.com"
+        }
+    ],
+    "require": {}
+}
